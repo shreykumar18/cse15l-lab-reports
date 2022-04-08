@@ -18,6 +18,8 @@ print 'hello world'
 > The File has been cloned and edited by VSCode
 
 
-[Lab Report 1](https://shreykumar18.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
-
-
+```
+# The Second Method of Linking Worked
+[Correct Link for Lab Report 1](https://shreykumar18.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
+```
+[Wrong Link for Lab Report 1](lab-report-1-week-2.html) 
