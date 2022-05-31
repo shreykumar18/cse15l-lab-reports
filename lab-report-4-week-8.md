@@ -2,6 +2,10 @@
 
 ## Links for Repositories
 
+[My Own Repository](https://github.com/shreykumar18/markdown-parser.git)
+
+[Reviewed Repository](https://github.com/kcyy127/markdown-parser.git)
+
 ## Test Cases
 
 **Snippet 1**
